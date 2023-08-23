@@ -1,0 +1,44 @@
+HTTrack3.49-2+htsswf+htsjava launched on Wed, 23 Aug 2023 04:37:06 at https://thepleasurechest.com/?gad=1&gclid=EAIaIQobChMIhrHhudfygAMVji2tBh29fgdtEAAYASAAEgKhWfD_BwE +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://thepleasurechest.com/?gad=1&gclid=EAIaIQobChMIhrHhudfygAMVji2tBh29fgdtEAAYASAAEgKhWfD_BwE -O1 "C:\Users\DrugcheckAI\Desktop\Adult\Adult Store 1" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+04:39:30	Error: 	"Not Found" (404) at link https://thepleasurechest.com/POST (from https://thepleasurechest.com/?gad=1&gclid=EAIaIQobChMIhrHhudfygAMVji2tBh29fgdtEAAYASAAEgKhWfD_BwE)
+04:39:30	Error: 	"Bad Request" (400) at link https://www.googletagmanager.com/gtm.js?id= (from https://thepleasurechest.com/?gad=1&gclid=EAIaIQobChMIhrHhudfygAMVji2tBh29fgdtEAAYASAAEgKhWfD_BwE)
+05:07:12	Error: 	More than 1800 seconds passed.. giving up
+05:07:12	Error: 	Exit requested by shell or user
+05:07:18	Warning: 	Moved Permanently for https://thepleasurechest.com/vibrators/g-spot/
+05:07:18	Warning: 	File has moved from https://thepleasurechest.com/vibrators/g-spot/ to https://thepleasurechest.com/vibrators/g-spot
+05:07:18	Warning: 	Moved Permanently for https://thepleasurechest.com/special-collections/sex-toy-primer/
+05:07:18	Warning: 	File has moved from https://thepleasurechest.com/special-collections/sex-toy-primer/ to https://thepleasurechest.com/special-collections/sex-toy-primer
+05:07:18	Warning: 	Moved Permanently for https://thepleasurechest.com/special-collections/queer-couples/
+05:07:18	Warning: 	File has moved from https://thepleasurechest.com/special-collections/queer-couples/ to https://thepleasurechest.com/special-collections/queer-couples
+05:07:19	Error: 	"Not Found" (404) at link https://cdn11.bigcommerce.com/s-yei6p8b4nx/images/stencil/{:size}/tpccheckout_1591123062__22584.png (from https://thepleasurechest.com/?gad=1&gclid=EAIaIQobChMIhrHhudfygAMVji2tBh29fgdtEAAYASAAEgKhWfD_BwE)
+05:07:19	Warning: 	Moved Permanently for https://thepleasurechest.com/brands/
+05:07:19	Warning: 	File has moved from https://thepleasurechest.com/brands/ to https://thepleasurechest.com/sitemap
+05:07:19	Error: 	"Not Found" (404) at link https://thepleasurechest.com/pages.php?action=sendContactForm (from https://thepleasurechest.com/?gad=1&gclid=EAIaIQobChMIhrHhudfygAMVji2tBh29fgdtEAAYASAAEgKhWfD_BwE)
+05:07:19	Error: 	"Not Found" (404) at link https://thepleasurechest.com/GET (from https://thepleasurechest.com/?gad=1&gclid=EAIaIQobChMIhrHhudfygAMVji2tBh29fgdtEAAYASAAEgKhWfD_BwE)
+05:07:23	Error: 	"Not Found" (404) at link https://thepleasurechest.com/special-collections/cart.php (from https://thepleasurechest.com/special-collections/pet-play)
+05:07:23	Error: 	"Not Found" (404) at link https://thepleasurechest.com/special-collections/GET (from https://thepleasurechest.com/special-collections/pet-play)
+05:07:25	Error: 	"Not Found" (404) at link https://thepleasurechest.com/blog/cart.php (from https://thepleasurechest.com/blog/)
+05:07:25	Error: 	"Not Found" (404) at link https://thepleasurechest.com/blog/GET (from https://thepleasurechest.com/blog/)
+05:07:25	Error: 	"Not Found" (404) at link https://thepleasurechest.com/locations/cart.php (from https://thepleasurechest.com/locations/)
+05:07:25	Error: 	"Not Found" (404) at link https://thepleasurechest.com/locations/GET (from https://thepleasurechest.com/locations/)
+05:07:25	Error: 	"Not Found" (404) at link https://thepleasurechest.com/store-locations/chicago-broadway (from https://thepleasurechest.com/events)
+05:07:39	Error: 	"Not Found" (404) at link https://thepleasurechest.com/vibrators/cart.php (from https://thepleasurechest.com/vibrators/most-popular-vibrators)
+05:07:39	Error: 	"Not Found" (404) at link https://thepleasurechest.com/vibrators/GET (from https://thepleasurechest.com/vibrators/most-popular-vibrators)
+05:10:49	Error: 	Exit requested by shell or user
+05:10:49	Error: 	Exit requested by shell or user
+05:10:49	Error: 	Exit requested by shell or user
+05:10:49	Error: 	"" (-1) at link https://thepleasurechest.com/vibrators/g-spot?_bc_fsnf=1&rating=4 (from https://thepleasurechest.com/vibrators/g-spot)
+05:10:49	Error: 	Exit requested by shell or user
+
+HTTrack Website Copier/3.49-2 mirror complete in 33 minutes 43 seconds : 3191 links scanned, 3166 files written (469479705 bytes overall) [129383505 bytes received at 63956 bytes/sec], 443020681 bytes transferred using HTTP compression in 1936 files, ratio 21%, 21.2 requests per connection
+(21 errors, 8 warnings, 0 messages)
+* * MIRROR ABORTED! * *
+The current temporary cache is required for any update operation and only contains data downloaded during the present aborted session.
+The former cache might contain more complete information; if you do not want to lose that information, you have to restore it and delete the current cache.
+This can easily be done here by erasing the hts-cache/new.* files]

@@ -1,0 +1,11 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+thepleasurechest.com	TRUE	/	FALSE	1999999999	XSRF-TOKEN	6dfa5fb1162af089127465c9005bb2196e9a437c915905026a0a06a170f308ec
+thepleasurechest.com	TRUE	/	FALSE	1999999999	viewPosts[limit]	10
+thepleasurechest.com	TRUE	/	FALSE	1999999999	fornax_anonymousId	5c23fde8-d908-420b-8a37-208870dd8cd9
+thepleasurechest.com	TRUE	/	FALSE	1999999999	athena_short_visit_id	53ad60e1-cca9-42b1-9d86-b3248c02bcbf:1692790628
+thepleasurechest.com	TRUE	/	FALSE	1999999999	Shopper-Pref	88F12756EFB36883DFA55B9CCB6E820B80CC07FE-1693397177426-x%7B%22cur%22%3A%22USD%22%7D
+thepleasurechest.com	TRUE	/	FALSE	1999999999	lastVisitedCategory	122
+thepleasurechest.com	TRUE	/	FALSE	1999999999	SHOP_SESSION_TOKEN	8c7d55bf-9ab2-4cd4-b0e4-09a8245e06c3
+thepleasurechest.com	TRUE	/	FALSE	1999999999	SameSite	None
+
